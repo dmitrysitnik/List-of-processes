@@ -1,0 +1,4 @@
+﻿  ConsoleApplication11.cpp
+c:\users\hate4\documents\visual studio 2017\projects\consoleapplication11\consoleapplication11\consoleapplication11.cpp(145): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+c:\users\hate4\documents\visual studio 2017\projects\consoleapplication11\consoleapplication11\consoleapplication11.cpp(145): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+  ConsoleApplication11.vcxproj -> C:\Users\hate4\Documents\Visual Studio 2017\Projects\ConsoleApplication11\x64\Debug\ConsoleApplication11.exe
